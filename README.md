@@ -1,1 +1,2 @@
 # odin-recipes
+Today I am going to make a html project, where I am going to show me the new knowledge that I gained in a simple html site, whici i will continue to develop with css and javascript once i aqquire som knowlegde of this languages too.
